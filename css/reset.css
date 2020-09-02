@@ -1,0 +1,31 @@
+ .eventsu{
+ 	  box-sizing: border-box;
+
+ }
+
+ section .leftbox{
+   float: right;
+  padding:30px;
+  box-sizing: border-box;
+}
+
+section .leftbox .content{
+  color: #fff;
+  background:rgba(0,0,0,.5);
+  padding: 20px;
+  transition: .5s;
+}
+section .leftbox .content:hover{
+  background : #e91e63;
+}
+
+section .leftbox .content h4{
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+.events {
+	position: relative;
+	background :rgba(0,0,0,0.5);
+	box-sizing: border-box;
+}

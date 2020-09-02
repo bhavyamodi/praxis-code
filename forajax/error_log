@@ -1,0 +1,5 @@
+[22-Aug-2020 20:02:35 UTC] PHP Notice:  Undefined index: id in /home/hpc9au2aolu3/public_html/institution/forajax/set_exam_type_session.php on line 4
+[22-Aug-2020 20:02:35 UTC] PHP Notice:  Undefined variable: link in /home/hpc9au2aolu3/public_html/institution/forajax/set_exam_type_session.php on line 7
+[22-Aug-2020 20:02:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hpc9au2aolu3/public_html/institution/forajax/set_exam_type_session.php on line 7
+[22-Aug-2020 20:02:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hpc9au2aolu3/public_html/institution/forajax/set_exam_type_session.php on line 8
+[23-Aug-2020 01:32:35 Asia/Kolkata] PHP Notice:  Undefined index: exam_time in /home/hpc9au2aolu3/public_html/institution/forajax/set_exam_type_session.php on line 14
